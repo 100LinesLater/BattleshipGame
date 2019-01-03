@@ -4,8 +4,7 @@ A Battleship game against a computer opponent. User interface allows user to cho
 
 REQUIREMENTS
 
-Java 8.0 \n
-JavaFX \n
+Java 8.0, JavaFX
 
 NOTES
 
